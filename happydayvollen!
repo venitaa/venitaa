@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    <title>Happy Birthday!</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+        background-color: #fff0f5;
+        color: #333;
+      }
+      h1 {
+        color: #ff69b4;
+      }
+      p {
+        font-size: 20px;
+      }
+      iframe {
+        margin-top: 30px;
+        border-radius: 12px;
+      }
+    </style>
+    <script>
+    alert("hai, nazim")
+  alert("aku mau kasih tau sesuatu")
+  alert("keep going on life! ")
+  alert("never give up! ")
+      alert("terima kasih sudah berjuang di dunia ini")
+    </script>
+  </head>
+  <body>
+    <h1>happy birthday, jaga kesehatan ya</h1>
+    <p>sehat selalu</p>
+    <p>22 Mei 2025</p>
+
+    <iframe style="border-radius:12px" 
+      src="https://open.spotify.com/embed/track/1o82DwNisONAd2mu1RcGE6?utm_source=generator" 
+      width="300" height="80" frameborder="0" 
+      allowtransparency="true" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+      loading="lazy">
+    </iframe>
+  </body>
+</html>
